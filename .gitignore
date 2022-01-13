@@ -1,0 +1,11 @@
+*.jar
+.vscode
+entrada
+salida
+error
+*.class
+
+src/examenes/
+src/ud1/practica3/
+src/ud2/practica5_prof/
+src/ud2/practica7/

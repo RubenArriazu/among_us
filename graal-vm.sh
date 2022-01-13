@@ -1,0 +1,1 @@
+podman run --rm -it -v $(pwd):/native_image:Z graal_native_img
