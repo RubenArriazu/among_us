@@ -11,7 +11,7 @@ public class Servidor {
 	private static final int PUERTO = 5050;
 	private static InetAddress direccionCliente;
 	private static int puertoCliente;
-	
+
 	public static void main(String[] args) {
 		try {
 			
